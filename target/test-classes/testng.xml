@@ -7,7 +7,6 @@
     <test name="Test" preserve-order="true">
         <classes>
             <class name="com.bugraptors.tests.HomeTest"/>
-
         </classes>
     </test>
 </suite>

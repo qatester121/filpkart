@@ -1,0 +1,1 @@
+{"uuid":"71524f01-662e-4c79-96b9-d03200b5a2c7","name":"com.bugraptors.tests.HomeTest","children":["11f319cb-dfed-427b-a9a3-346f0e4e5901"],"befores":[{"name":"loadData","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677639354939,"stop":1677639354957}],"afters":[],"start":1677639354871,"stop":1677639371026}

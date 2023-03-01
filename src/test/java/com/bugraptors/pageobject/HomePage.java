@@ -9,9 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static com.bugraptors.base.TestBaseClass.getDriver;
-import static com.bugraptors.utils.JSUtils.jsClick;
 import static com.bugraptors.utils.WaitUtils.waitForElementClickable;
 import static com.bugraptors.utils.WaitUtils.waitForElementVisibility;
+import static com.bugraptors.utils.WebUtils.jsClick;
 
 public class HomePage {
 
